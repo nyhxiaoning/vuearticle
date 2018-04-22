@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/nyhxiaoning/vuearticle/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# 根据Vue框架进行响应式开发的案例
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* 我的个人网站主页是nyhxiaoning.github.io *
 
-### Markdown
+## 项目技术描述
+- 利用vue的脚手架vue-cli进行搭建，结合组件进行不同页面的交互
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 编辑器 
+- 使用submit webstorm vscode atom
 
-```markdown
-Syntax highlighted code block
+## 项目功能
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nyhxiaoning/vuearticle/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- 利用vue-cli的项目框架，可以实现不同的文章查看和个人信息的展示
